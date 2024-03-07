@@ -602,6 +602,9 @@ for n_features in [args.n_features]:
                             fw.write(str(np.round(lpipses_list[i], decimals=4)))
                             fw.write('\t')
                             fw.write(str(np.round(ssims_list[i], decimals=4)))
+                            fw.write('\t')
+                            total_size_MB = embed_bits_MB_codec + context_MBs_orig + binary_vxl_MBs + main_MLP_MBs_list[i]
+                            fw.write(str(np.round(total_size_MB, decimals=4)))
 
                         fw.write('\t')
                         fw.write(str(np.round(elapsed_time, decimals=4)))
