@@ -5,7 +5,7 @@
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
 [Jianfei Cai](http://jianfei-cai.github.io)
 
-[Arxiv](...)
+[Arxiv](...), [Github](https://github.com/YihangChen-ee/CNC_release)
 
 ## Overview
 <p align="left">
@@ -48,7 +48,7 @@ pip uninstall nvidia-cublas-cu11
 pip install gridencoder
 pip install my_cuda_backen
 ```
-5. Change the nerfacc in your environment (`PATH/TO/YOUR/nerfacc`) by ours (`./nerfacc`).
+5. Manually replace the nerfacc package in your environment (`PATH/TO/YOUR/nerfacc`) by ours (`./nerfacc`).
 
 ## Code Execution
 1. Put dataset to `./data` folder such as `./data/nerf_synthetic/chair` or `./data/TanksAndTemple/Barn`
