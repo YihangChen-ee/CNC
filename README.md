@@ -51,24 +51,24 @@ pip install my_cuda_backen
 5. Manually replace the nerfacc package in your environment (`PATH/TO/YOUR/nerfacc`) by ours (`./nerfacc`).
 
 ## Code Execution
-1. Put dataset to `./data` folder such as `./data/nerf_synthetic/chair` or `./data/TanksAndTemple/Barn`
-2. To train a scene in nerf_synthetic or tanks_and_temple dataset, and conduct the following.
-3. Note that we use a learning rate of `1e-2` in our paper for both MLPs but `6e-3` in this repo as we find it is more stable.
+1. Put dataset to `./data` folder, such as `./data/nerf_synthetic/chair` or `./data/TanksAndTemple/Barn`
+2. To train a scene in nerf_synthetic or tanks_and_temple dataset, conduct the following.
+3. We use a learning rate of `1e-2` in our paper for both MLPs but `6e-3` in this repo as we find it is more stable.
 ```
 CUDA_VISIBLE_DEVICES=0 python examples/train_CNC_nerf_synthetic.py --lmbda 0.7e-3 --scene chair --sample_num 150000 --n_features 8
 CUDA_VISIBLE_DEVICES=0 python examples/train_CNC_tank_temples.py --lmbda 0.7e-3 --scene Barn --sample_num 150000 --n_features 8
 ```
 
 Optionally, you can try `--lmbda` in [0.7e-3, 1e-3, 2e-3, 4e-3] to control rate,
-and try `--sample_num` in [150000, 200000] `--n_features` in [1, 2, 4, 8] to adjust training time and performance tradeoff.
+and try `--sample_num` in [150000, 200000], and `--n_features` in [1, 2, 4, 8] to adjust training time and performance tradeoff.
 
 Please use `--sample_num 200000` for `--n_features 8` and `--sample_num 150000` for other `--n_features`
 
 The code will automatically run the entire process of: **training, encoding, decoding, testing**.
 
 3. Output data includes:
-1) Recorded output statistics in `./results`
-2) Encoded bitstreams of the hash grid in `./bitstreams`
+1) Recorded output results in `./results`. (Including fidelity, size, training time, encoding/decoding time)
+2) Encoded bitstreams of the hash grid are in `./bitstreams`
 
 ## Attention: Common Issues You Might Encounter
 1. Our `gcc` version is 9.4.0. If you encounter RuntimeError, please check your `gcc` version.
