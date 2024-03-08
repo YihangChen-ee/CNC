@@ -62,7 +62,7 @@ CUDA_VISIBLE_DEVICES=0 python examples/train_CNC_tank_temples.py --lmbda 0.7e-3 
 Optionally, you can try `--lmbda` in [0.7e-3, 1e-3, 2e-3, 4e-3] to control rate,
 and try `--sample_num` in [150000, 200000], and `--n_features` in [1, 2, 4, 8] to adjust training time and performance tradeoff.
 
-Please use `--sample_num 200000` for `--n_features 8` and `--sample_num 150000` for other `--n_features`
+Please use `--sample_num 150000` for `--n_features 8` and `--sample_num 200000` otherwise
 
 The code will automatically run the entire process of: **training, encoding, decoding, testing**.
 
