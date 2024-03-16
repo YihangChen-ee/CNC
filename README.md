@@ -5,7 +5,7 @@
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
 [Jianfei Cai](http://jianfei-cai.github.io)
 
-[Arxiv](...), [Github](https://github.com/YihangChen-ee/CNC_release)
+[Arxiv](...), [Github](https://github.com/YihangChen-ee/CNC)
 
 ## Overview
 <p align="left">
