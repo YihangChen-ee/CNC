@@ -1,11 +1,11 @@
 
 # [CVPR'24] Har Far Can We Compress Instant-NGP Based NeRF?
 [Yihang Chen](https://github.com/YihangChen-ee), 
-[Qianyi Wu](https://wuqianyi.top), 
+[Qianyi Wu](https://qianyiwu.github.io), 
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
 [Jianfei Cai](http://jianfei-cai.github.io)
 
-[Arxiv](...), [Github](https://github.com/YihangChen-ee/CNC)
+[[`Arxiv`](...)] [[`Github`](https://github.com/YihangChen-ee/CNC)]
 
 ## Overview
 <p align="left">
