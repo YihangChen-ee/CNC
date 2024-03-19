@@ -87,7 +87,7 @@ If you find our work helpful, please consider citing:
 ```bibtex
 @inproceedings{cnc2024,
   title={How Far Can We Compress Instant NGP-Based NeRF?},
-  author={Chen, Yihang and Wu, Qianyi and Harandi, Mehrtash and Cai, Jianfei},
+  author={Y. Chen, Q. Wu, M. Harandi, and J. Cai},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
