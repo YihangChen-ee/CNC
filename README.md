@@ -5,7 +5,7 @@
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
 [Jianfei Cai](http://jianfei-cai.github.io)
 
-[[`Arxiv`](...)] [[`Github`](https://github.com/YihangChen-ee/CNC)]
+[[`Arxiv`](...)] [[`Project Page`](https://yihangchen-ee.github.io/project_cnc/)] [[`Github`](https://github.com/YihangChen-ee/CNC)]
 
 ## Overview
 <p align="left">
@@ -87,7 +87,7 @@ If you find our work helpful, please consider citing:
 ```bibtex
 @inproceedings{cnc2024,
   title={How Far Can We Compress Instant NGP-Based NeRF?},
-  author={Yihang Chen, Qianyi Wu, Mehrtash Harandi, and Jianfei Cai},
+  author={Yihang, Chen and Qianyi, Wu and Mehrtash, Harandi and and Jianfei, Cai},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
