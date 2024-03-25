@@ -1,5 +1,5 @@
 
-# [CVPR'24] Har Far Can We Compress Instant-NGP Based NeRF?
+# [CVPR'24] Har Far Can We Compress Instant-NGP-Based NeRF?
 [Yihang Chen](https://yihangchen-ee.github.io), 
 [Qianyi Wu](https://qianyiwu.github.io), 
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
@@ -86,7 +86,7 @@ If you find our work helpful, please consider citing:
 
 ```bibtex
 @inproceedings{cnc2024,
-  title={How Far Can We Compress Instant NGP-Based NeRF?},
+  title={How Far Can We Compress Instant-NGP-Based NeRF?},
   author={Chen, Yihang and Wu, Qianyi and Harandi, Mehrtash and Cai, Jianfei},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
