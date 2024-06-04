@@ -1,5 +1,6 @@
+# [CVPR'24] CNC
+Official Pytorch implementation of **Har Far Can We Compress Instant-NGP-Based NeRF?**.
 
-# [CVPR'24] Har Far Can We Compress Instant-NGP-Based NeRF?
 [Yihang Chen](https://yihangchen-ee.github.io), 
 [Qianyi Wu](https://qianyiwu.github.io), 
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
