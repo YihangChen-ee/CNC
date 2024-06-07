@@ -6,7 +6,7 @@ Official Pytorch implementation of **Har Far Can We Compress Instant-NGP-Based N
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
 [Jianfei Cai](http://jianfei-cai.github.io)
 
-[[`Arxiv`](...)] [[`Project Page`](https://yihangchen-ee.github.io/project_cnc/)] [[`Github`](https://github.com/YihangChen-ee/CNC)]
+[[`Arxiv`](https://arxiv.org/abs/2406.04101)] [[`Project Page`](https://yihangchen-ee.github.io/project_cnc/)] [[`Github`](https://github.com/YihangChen-ee/CNC)]
 
 ## Links
 🎉 [HAC](https://github.com/yihangchen-ee/hac/) [ARXIV'24] is now released for efficient 3DGS compression! [[`Arxiv`](https://arxiv.org/abs/2403.14530)] [[`Project Page`](https://yihangchen-ee.github.io/project_hac/)] [[`Github`](https://github.com/YihangChen-ee/HAC)]
