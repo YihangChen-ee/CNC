@@ -1,5 +1,6 @@
 # [CVPR'24] CNC
 Official Pytorch implementation of **Har Far Can We Compress Instant-NGP-Based NeRF?**.
+## Significant compression ratio of 100X based on Instant-NGP!
 
 [Yihang Chen](https://yihangchen-ee.github.io), 
 [Qianyi Wu](https://qianyiwu.github.io), 
