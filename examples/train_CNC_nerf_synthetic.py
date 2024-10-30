@@ -428,6 +428,7 @@ for n_features in [args.n_features]:
                 decoding_time = 0
 
                 if lmbda > 0:  # running the codec process
+                    os.makedirs('./bitstreams/' + args.scene, exist_ok=True)
                     t1 = time.time()
                     with torch.no_grad():  # encoding
                         Pgs_dict, embed_bits_MB, embed_bits_MB_codec = entropy_estimator.encode_binary_vxl_mixPg_3D2D(
