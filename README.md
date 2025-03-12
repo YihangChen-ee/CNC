@@ -15,7 +15,7 @@ You are welcomed to check a series of works from our group on 3D radiance field 
 - 🏠 [HAC](https://github.com/yihangchen-ee/hac/) [ECCV'24] is now released for efficient 3DGS compression! [[`Paper`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01178.pdf)] [[`Arxiv`](https://arxiv.org/pdf/2403.14530)] [[`Project`](https://yihangchen-ee.github.io/project_hac/)]
 - 💪 [HAC++](https://github.com/yihangchen-ee/hac-plus/) [ARXIV'25] is an enhanced compression method over HAC! [[`Arxiv`](https://arxiv.org/pdf/2501.12255)] [[`Project`](https://yihangchen-ee.github.io/project_hac++/)]
 - 🚀 [FCGS](https://github.com/yihangchen-ee/fcgs/) [ICLR'25] is now released for fast optimization-free 3DGS compression! [[`Paper`](https://openreview.net/pdf?id=DCandSZ2F1)] [[`Arxiv`](https://arxiv.org/pdf/2410.08017)] [[`Project`](https://yihangchen-ee.github.io/project_fcgs/)]
-- 🪜 [PCGS](https://github.com/yihangchen-ee/pcgs/) [ARXIV'25] is now released for progressive 3DGS compression! [[`Arxiv`](https://arxiv.org/pdf/xxxx.xxxxx)] [[`Project`](https://yihangchen-ee.github.io/project_pcgs/)]
+- 🪜 [PCGS](https://github.com/yihangchen-ee/pcgs/) [ARXIV'25] is now released for progressive 3DGS compression! [[`Arxiv`](https://arxiv.org/pdf/2503.08511)] [[`Project`](https://yihangchen-ee.github.io/project_pcgs/)]
 
 
 ## Overview
